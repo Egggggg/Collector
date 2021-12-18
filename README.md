@@ -1,2 +1,2 @@
 ## Collector
-A Discord bot to track game progress using wikis
+Discord bot for tracking game progress using wikis
